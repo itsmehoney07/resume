@@ -1,0 +1,23 @@
+<h1>It's my birthday!</h1>
+<h2>on 6th September</h2>
+<img src=https://picsum.photos/536/354 alt="Birthday cake photo"/>
+
+<h3>Things to bring in the party</h3>
+<ol type="I">
+    <li>Cake
+        <ul>
+            <li>Chocolate</li>
+            <li>Vanilla</li>
+            <li>Strawberry</li>
+        </ul>
+    </li>
+    <li>Gift
+        <ul>
+            <li>Watch</li>
+            <li>Phones</li>
+            <li>Perfumes</li>
+        </ul>
+    </li>
+    <li>Car or bike</li>
+    <li>Mobiles</li>  
+</ol>
